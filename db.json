@@ -1,0 +1,138 @@
+{
+"visionboards":[
+
+{
+    "order_number": "1000",
+    "left_top": [
+        {
+            "product_id": 100,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.connox.de%2Fm%2F100030%2F256375%2Fmedia%2Fartvoll%2Fmit-rahmen%2Fartvoll-alps-poster-mit-rahmen-schwarz.jpg&feedId=33865&k=50e1188ed64fdfe042657dbf2f8dd4ea18f68edc",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "plant"
+        },
+        {
+            "product_id": 101,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2Fe%2Fc%2Fecksofa-ampio-duo-ii-longchair-ottomane-davorstehend-rechts-grau-stoff-floreana-hellgrau-3978224.jpg&feedId=32201&k=f8a96fa14f43bd5a558d44f814f480ca1654751d",
+            "position_left": 200,
+            "position_top": 200,
+            "width": 100,
+            "height": 100,
+            "type": "pictures"
+        }
+    ],
+    "left_center": [
+        {
+            "product_id": 102,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2F-%2F1%2F-1000170014-190415-06515700186-MOOD-GALLERYIMAGES-P000000001000170014-mood.jpg&feedId=32201&k=7e008c23a927d124a89b43820db6e1cbd97e1d8a",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "plant"
+        }
+    ],
+    "left_bottom": [
+        {
+            "product_id": 103,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2F-%2F1%2F-1000170014-190415-06515700186-MOOD-GALLERYIMAGES-P000000001000170014-mood.jpg&feedId=32201&k=7e008c23a927d124a89b43820db6e1cbd97e1d8a",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "chair"
+        },
+        {
+            "product_id": 104,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2F-%2F1%2F-1000172458-190508-07202900264-MOOD-GALLERYIMAGES-P000000001000172458-mood.jpg&feedId=32201&k=9193a3d98b14f796ec35fc1b3980419b7942584d",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "floor"
+        }
+    ],
+    "center_top": [
+        {
+            "product_id": 105,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2Fe%2Fs%2Fesstisch-bjelland-eiche-teilmassiv-eiche-weiss-150-x-80cm-4246236.jpg&feedId=32201&k=c1a9e0e1edaf9534fd9c2619604e8f2558df10f8",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "lamp"
+        }
+    ],
+    "center": [
+        {
+            "product_id": 106,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.connox.de%2Fm%2F100030%2F256919%2Fmedia%2Fartvoll%2Fmit-rahmen%2Fartvoll-shapes-1-grass-poster-mit-rahmen-schwarz.jpg&feedId=33865&k=94773458c222f67788546233f0ba1b7ec24ff7e5",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "couch"
+        },
+        {
+            "product_id": 107,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2F-%2F1%2F-1000159138-190222-15283700199-IMAGE-P000000001000159138.jpg&feedId=32201&k=f44e9e39c11b449f57d86eb6bc7e8e1c77138c15",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "table"
+        }
+    ],
+    "center_bottom": [
+        {
+            "product_id": 108,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn1.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2F-%2F1%2F-1000178179-190628-06234600091-IMAGE-P000000001000178179.jpg&feedId=32201&k=0276888746832e8a218008dbfe647724d0aa9f2c",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "plant"
+        }
+    ],
+    "right_top": [
+        {
+            "product_id": 109,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.connox.de%2Fm%2F100030%2F168026%2Fmedia%2Fhay%2Fwooden-hand%2Fwooden-hand-small.jpg&feedId=33865&k=a670c10a755948282376843ea7031323c426c6d4",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "storage"
+        }
+    ],
+    "right_bottom": [
+        {
+            "product_id": 110,
+            "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Agfx.productsup.io%2Fimg%2Fsite%2F380779%2Fdata%2FHVDBasMwFPsXn0McO02W-bZ2pYP1MFbGDnN5vCTPbiB1MttZKaX_vqQnSUgIpBsLvmGKnWIcg9Jc8-5s0zO2lDbDeVFoSfNp7AdsNW9gxDZpYQmM_RSsp2sa_mxiAKc4JL8PUDWFmFxAyCxLavC2VqYwpVnNBRixH6zmox_aqYmaYwg0Q6Z5obnU3My8kCYvSYqqqp6FECZDIZonwiJvVpLqIi_zHMsKNm8v-_02k2L3uYWvdzhQBAn7qSd47VznLGxO2PkAa7zCzhM5QNfCN_ZuioA-X9LrTMDHIR2dZQkzfWTq58Y8MXVjyzNucDQbF6Yec9iJqVJWCRuZin6i-_14_wc.jpg&feedId=26141&k=86594e95755600e7cc13fc45ca096505071e6326",
+            "position_left": 500,
+            "position_top": 400,
+            "width": 100,
+            "height": 100,
+            "type": "curtains"
+        }
+    ],
+    "wall_colors": [
+        {
+            "hexcode": "#C38C9F"
+        },
+        {
+            "hexcode": "#abc123"
+        },
+        {
+            "hexcode": "#ea2348"
+        }
+    ],
+    "price": {
+        "sum": 1980.0,
+        "currency": "EUR"
+    }
+}
+]
+}
