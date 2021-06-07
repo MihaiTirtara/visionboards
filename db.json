@@ -12,7 +12,7 @@
                         "position_top": 200,
                         "width": 100,
                         "height": 100,
-                        "type": "picture"
+                        "type": "PICTURE"
                     },
                     {
                         "product_id": 101,
@@ -22,7 +22,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "picture"
+                        "type": "PICTURE"
                     }
                 ],
                 "left_center": [
@@ -34,7 +34,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "decoration"
+                        "type": "DECORATION"
                     }
                 ],
                 "left_bottom": [
@@ -46,7 +46,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "chair"
+                        "type": "CHAIR"
                     }
                 ],
                 "center_top": [
@@ -58,7 +58,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "lamp"
+                        "type": "LAMP"
                     }
                 ],
                 "center": [
@@ -80,7 +80,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "table"
+                        "type": "TABLE"
                     }
                 ],
                 "center_bottom": [
@@ -92,7 +92,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "plant"
+                        "type": "PLANT"
                     }
                 ],
                 "right_top": [
@@ -104,7 +104,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "picture"
+                        "type": "PICTURE"
                     },
                     {
                         "product_id": 110,
@@ -114,7 +114,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "cupboard"
+                        "type": "CUPBOARD"
                     }
 
                 ],
@@ -127,7 +127,7 @@
                         "position_top": 400,
                         "width": 100,
                         "height": 100,
-                        "type": "curtain"
+                        "type": "CURTAIN"
                     }
                 ],
                 "wall_colors": [
