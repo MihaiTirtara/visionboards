@@ -3,6 +3,7 @@
 
 {
                 "order_number": "1000",
+                "type":"BASIC",
                 "left_top": [
                     {
                         "product_id": 100, 
