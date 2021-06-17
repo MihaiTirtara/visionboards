@@ -16,7 +16,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "PICTURE",
-                        "tile":"LEFT_TOP"
+                        "tile":"LEFT_TOP",
                         "visionboard_id":"3"
                     },
                     {
@@ -29,7 +29,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "PICTURE",
-                        "tile":"LEFT_TOP"
+                        "tile":"LEFT_TOP",
                         "visionboard_id":"3"
                     }
                 ],
@@ -44,7 +44,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "DECORATION",
-                        "tile":"LEFT_CENTER"
+                        "tile":"LEFT_CENTER",
                         "visionboard_id":"3"
                     }
                 ],
@@ -59,7 +59,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "CHAIR",
-                        "tile":"LEFT_BOTTOM"
+                        "tile":"LEFT_BOTTOM",
                         "visionboard_id":"3"
                     }
                 ],
@@ -74,7 +74,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "LAMP",
-                        "tile":"CENTER_TOP"
+                        "tile":"CENTER_TOP",
                         "visionboard_id":"3"
 
                     }
@@ -90,7 +90,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "COUCH",
-                        "tile":"CENTER"
+                        "tile":"CENTER",
                         "visionboard_id":"3"
                     },
                     {
@@ -103,7 +103,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "TABLE",
-                        "tile":"CENTER"
+                        "tile":"CENTER",
                         "visionboard_id":"3"
                     }
                 ],
@@ -118,7 +118,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "PLANT",
-                        "tile":"CENTER_BOTTOM"
+                        "tile":"CENTER_BOTTOM",
                         "visionboard_id":"3"
 
                     }
@@ -134,7 +134,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "PICTURE",
-                        "tile":"RIGHT_TOP"
+                        "tile":"RIGHT_TOP",
                         "visionboard_id":"3"
                     },
                     {
@@ -147,7 +147,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "CUPBOARD",
-                        "tile":"RIGHT_TOP"
+                        "tile":"RIGHT_TOP",
                         "visionboard_id":"3"
 
                     }
@@ -164,7 +164,7 @@
                         "width": 100,
                         "height": 100,
                         "type": "CURTAIN",
-                        "tile":"RIGHT_BOTTOM"
+                        "tile":"RIGHT_BOTTOM",
                         "visionboard_id":"3"
                     }
                 ],
